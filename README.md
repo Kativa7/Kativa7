@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kativa7 - Katerina Ilieva
-- 👀 I’m interested in ...front end, back end, web applications.
-- 🌱 I’m currently learning ...JavaScript, HTML and CSS.
+- 👀 I’m interested in ...everything to do with web applications.
+- 🌱 I’m currently learning ...JS, React, Angular, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mxb.kativa@gmail.com
 
